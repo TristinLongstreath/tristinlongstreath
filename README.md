@@ -8,5 +8,5 @@ My name is Tristin and I am a Computer Information Systems student who loves fun
 
 <br><br>
 <p align="center">
-  <a href="" target="_blank"><img src="" alt="LinkedIn"></a>
+  <a href="https://www.linkedin.com/in/tristinlongstreath/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 </p>
