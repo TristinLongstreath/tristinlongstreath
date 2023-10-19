@@ -4,7 +4,7 @@
 
 ### Hi there 
 
-My name is Tristin and I am a Computer Information Systems student who loves fun projects and creating something impactful. I am interested in the world of technology, and the ever evolving cycle of this new era. I want to use technology to improve people's everday life, and create a more substainable, accessible, and inclusive world. 
+My name is Tristin and I have a B.S. in Computer Information Systems. I have a passion for Data Analytics and Data Science and driving insights into actionable results. 
 
 <br><br>
 <h2>Connect with me </h3>
